@@ -1,6 +1,6 @@
 function sendEmail(){
     Email.send({
-        SecureToken : "1dc3b14a-4c36-4c4e-9e04-115ff7afd5d5",
+        SecureToken : "2d0f5046-16dd-4d3e-8b36-2fdf650bd0a4",
         To : "adii.dg.2021@gmail.com",
         From : "adii.dg.2021@gmail.com",
         Subject : "New Enquiry from : "+document.getElementById("mail").value,
